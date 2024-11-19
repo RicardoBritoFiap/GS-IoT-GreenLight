@@ -1,9 +1,7 @@
 # 💡GreenLight IoT🍃 #
-Esse repositório é responsavel pelo desenvolvimento de IoT do projeto GreenLight. Desenvolvido para a Global Solution 2024/2 da FIAP.
 
 O GreenLight é uma solução inovadora e sustentável projetada para otimizar o uso de iluminação em grandes áreas, como indústrias, complexos empresariais e outros ambientes de grande escala. Utilizando sensores de luminosidade (LDR), o sistema garante que as lâmpadas sejam ativadas apenas quando necessário, promovendo economia de energia e sustentabilidade.
-
-O grande diferencial do GreenLight é a integração com um aplicativo inteligente, que permite aos usuários monitorar o consumo de energia em tempo real e o histórico mensal. Além disso, o aplicativo oferece a funcionalidade de desligamento manual das lâmpadas, essencial para manutenção ou ajustes em áreas específicas. Porém, o sistema não permite que as lâmpadas sejam ligadas manualmente se houver luz suficiente, eliminando desperdícios causados por erros humanos.
+Alêm disso, a nossa solição de IoT conta com uma dashboard no thinger.io para monitoramento dos parametros de consumo.
 
 👥 **Integrantes do Grupo:**
 
@@ -17,14 +15,13 @@ O grande diferencial do GreenLight é a integração com um aplicativo inteligen
 
 - RM98370 - Ricardo Brito
 
-# 📎Como rodar o Protótipo e Dashboard #
+# 📎Como rodar o Protótipo #
 
 ## Para rodar o protótipo, é necessario seguir alguns passos simples. ##
 
+- Acesse o protótipo atravez do link abaixo:
+[https://wokwi.com/projects/414908718417216513]
+~ O protótipo já vai estar compilado para testes com a dashboard vinculado ao meu nome de usuario. ~
 
 
-# 🌐Descrevendo o Código: #
-
-
-
-### [🎬Link do vídeo]() ###
+### [🎬Link do vídeo](https://youtu.be/piJtHPdySvs) ###
