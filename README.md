@@ -26,4 +26,4 @@ Alêm disso, a nossa solição de IoT conta com uma dashboard no thinger.io para
 ***O protótipo já vai estar compilado para testes com a dashboard vinculado ao meu nome de usuario.***
 
 
-### [🎬Link do vídeo](https://youtu.be/piJtHPdySvs) ###
+### [🎬Link do vídeo](https://youtu.be/MW1hPiEgI-8) ###
